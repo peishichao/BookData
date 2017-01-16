@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+	读书笔记/index
+	算法/index
 
 Indices and tables
 ==================
